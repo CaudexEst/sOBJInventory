@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac378223dfb1384438084a03e79e6694, type: 3}
+  m_Name: Geode
+  m_EditorClassIdentifier: 
+  Name: Geode
+  Description: A grouping of crystalized minerals
+  Artwork: {fileID: 21300000, guid: e0e5033f374f60f41a4c766b129ada43, type: 3}
+  Cost: 200
+  PlayerAmount: 0
+  ShopAmount: 0
+  IsLargeScrap: 1
+  CountByPickup: 1
+  ShopPrefereneceList:
+  - pref: 2
+    AmountLiked: 1
+  - pref: 3
+    AmountLiked: 2
+  - pref: 5
+    AmountLiked: 2
+  - pref: 6
+    AmountLiked: 2
+  SpriteRenderedObject: {fileID: 1147574283787478188, guid: d11af0c49e9a4b44ca45bad58c019e50,
+    type: 3}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac378223dfb1384438084a03e79e6694, type: 3}
+  m_Name: Casette
+  m_EditorClassIdentifier: 
+  Name: Casette
+  Description: A small cartridge for storing music playlists
+  Artwork: {fileID: 21300000, guid: 73411caa90191a441bfa5f74b635faad, type: 3}
+  Cost: 200
+  PlayerAmount: 5
+  ShopAmount: 0
+  IsLargeScrap: 1
+  CountByPickup: 1
+  IsQuestItem: 0
+  ShopPrefereneceList:
+  - pref: 2
+    AmountLiked: 1
+  - pref: 4
+    AmountLiked: 2
+  - pref: 3
+    AmountLiked: 2
+  - pref: 5
+    AmountLiked: 1
+  - pref: 6
+    AmountLiked: 1
+  SpriteRenderedObject: {fileID: 2738904475292762453, guid: f34a72710a69c934fa6cd398ad30e1ef,
+    type: 3}
