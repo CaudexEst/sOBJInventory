@@ -18,6 +18,9 @@ MonoBehaviour:
   Cost: 150
   PlayerAmount: 0
   ShopAmount: 0
+  IsLargeScrap: 0
+  CountByPickup: 1
+  IsQuestItem: 0
   ShopPrefereneceList:
   - pref: 4
     AmountLiked: 2
@@ -25,5 +28,4 @@ MonoBehaviour:
     AmountLiked: 1
   - pref: 6
     AmountLiked: 1
-  SpriteRenderedObject: {fileID: 5717397076157514076, guid: 691dc76d35919b948a1c94c25b664ded,
-    type: 3}
+  SpriteRenderedObject: {fileID: 5717397076157514076, guid: 691dc76d35919b948a1c94c25b664ded, type: 3}

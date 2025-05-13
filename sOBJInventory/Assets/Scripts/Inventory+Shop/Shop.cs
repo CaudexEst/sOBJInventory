@@ -44,9 +44,9 @@ public class Shop : InventoryManager
     void Awake()
     {
         FindInventory();
-        _previousPISpot = _playerInventory.transform.position;
-        _previousPIScale = _playerInventory.transform.localScale;
-        _DBScale = _DB.transform.localScale;
+        //_previousPISpot = _playerInventory.transform.position;
+        //_previousPIScale = _playerInventory.transform.localScale;
+        //_DBScale = _DB.transform.localScale;
     }
 
     //When enabled, subscribe to display board selection

@@ -32,5 +32,4 @@ MonoBehaviour:
     AmountLiked: 1
   - pref: 6
     AmountLiked: 1
-  SpriteRenderedObject: {fileID: 2738904475292762453, guid: f34a72710a69c934fa6cd398ad30e1ef,
-    type: 3}
+  SpriteRenderedObject: {fileID: 2738904475292762453, guid: f34a72710a69c934fa6cd398ad30e1ef, type: 3}

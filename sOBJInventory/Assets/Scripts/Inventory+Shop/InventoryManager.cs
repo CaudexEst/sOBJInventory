@@ -71,6 +71,7 @@ public class InventoryManager : MonoBehaviour
                 //Debug.Log(ScrapInInventory.Last().Name);
             }
         }
+        TonskAmount.text = "Bal: " + _tonsks;
         /*
         SceneManager.activeSceneChanged += ActiveSceneChanged; //subscribes to event
         if(_PlayerHealth != null)

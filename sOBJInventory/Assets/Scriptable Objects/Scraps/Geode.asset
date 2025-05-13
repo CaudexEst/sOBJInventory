@@ -20,6 +20,7 @@ MonoBehaviour:
   ShopAmount: 0
   IsLargeScrap: 1
   CountByPickup: 1
+  IsQuestItem: 0
   ShopPrefereneceList:
   - pref: 2
     AmountLiked: 1
@@ -29,5 +30,4 @@ MonoBehaviour:
     AmountLiked: 2
   - pref: 6
     AmountLiked: 2
-  SpriteRenderedObject: {fileID: 1147574283787478188, guid: d11af0c49e9a4b44ca45bad58c019e50,
-    type: 3}
+  SpriteRenderedObject: {fileID: 1147574283787478188, guid: d11af0c49e9a4b44ca45bad58c019e50, type: 3}
